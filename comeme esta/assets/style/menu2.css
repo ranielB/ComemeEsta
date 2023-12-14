@@ -1,0 +1,26 @@
+#madfish{
+    background-image: url("../src/noseva.png");
+    background-position: center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+#botons{
+    height: 165px;
+    width: 180px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    bottom: 205px;
+    border-radius: 77770px;
+    cursor: pointer;
+
+}

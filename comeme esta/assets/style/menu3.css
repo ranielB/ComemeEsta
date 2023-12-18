@@ -13,33 +13,43 @@
     margin: auto;
 }
 #boton1{
-    height: 220px;
-    width: 360px;
+    height: 260px;
+    width: 410px;
     position: absolute;
-    left: 130px;
+    left: 150px;
     margin: auto;
-    bottom: 250px;
+    bottom: 330px;
     border-radius: 20px;
     cursor: pointer;
 }
 #boton2{
-    height: 220px;
-    width: 360px;
+    height: 260px;
+    width: 410px;
     position: absolute;
-    left: 0px;
-    right: 0px;
+    left: 0;
+    right: 0;
     margin: auto;
-    bottom: 250px;
+    bottom: 330px;
     border-radius: 20px;
     cursor: pointer;
 }
 #boton3{
-    height: 220px;
-    width: 360px;
+    height: 260px;
+    width: 410px;
     position: absolute;
-    right: 130px;
+    right: 147px;
     margin: auto;
-    bottom: 250px;
+    bottom: 330px;
     border-radius: 20px;
     cursor: pointer;
+}
+#grose{
+    position: absolute;
+    height: 900px;
+    width: 1700px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
 }

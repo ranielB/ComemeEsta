@@ -13,13 +13,13 @@
     margin: auto;
 }
 #botoni{
-    height: 85px;
+    height: 100px;
     width: 100px;
     position: absolute;
     left: 0px;
     right: 0px;
     margin: auto;
-    bottom: 60px;
+    bottom: 80px;
     border-radius: 77770px;
     cursor: pointer;
 }
@@ -32,4 +32,7 @@
     top: 0;
     bottom: 0;
     margin: auto;
+}
+body{
+    background-color: aquamarine;
 }

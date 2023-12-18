@@ -2,13 +2,13 @@
     background-image: url("../src/fondo_menu.png");    
 }
 #botoni{
-    height: 85px;
+    height: 100px;
     width: 100px;
     position: absolute;
     left: 0px;
     right: 0px;
     margin: auto;
-    bottom: 60px;
+    bottom: 80px;
     border-radius: 77770px;
     cursor: pointer;
 }

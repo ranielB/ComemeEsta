@@ -2,16 +2,15 @@
     background-image: url("../src/noseva.png");
 }
 #botons{
-    height: 165px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
     position: absolute;
     left: 0px;
     right: 0px;
     margin: auto;
-    bottom: 205px;
+    bottom: 265px;
     border-radius: 77770px;
     cursor: pointer;
-
 }
 #grose{
     position: absolute;

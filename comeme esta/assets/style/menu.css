@@ -23,3 +23,13 @@
     border-radius: 77770px;
     cursor: pointer;
 }
+#grose{
+    position: absolute;
+    height: 900px;
+    width: 1700px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
